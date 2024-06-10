@@ -7,7 +7,7 @@ En este repositorio se encuentran:
 - Tres bases de datos que usaremos durante el desarrollo. Una adaptada desde CODING CLUB (https://ourcodingclub.github.io/) y dos de libre acceso.
 
 Links asociados a la sesión:
-- Base de datos GAVIA: https://figshare.com/articles/dataset/Data_from_The_Global_Avian_Invasions_Atlas_-_A_database_of_alien_bird_distributions_worldwide/4234850
+- Base de datos GAVIA: https://doi.org/10.6084/m9.figshare.4234850.v1
 - Base de datos AnimalTraits: https://animaltraits.org/
 - Base de datos HormoneBase: https://hormonebase.org/
 
